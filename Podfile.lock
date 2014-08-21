@@ -1,0 +1,10 @@
+PODS:
+  - RACollectionViewReorderableTripletLayout (0.0.9)
+
+DEPENDENCIES:
+  - RACollectionViewReorderableTripletLayout
+
+SPEC CHECKSUMS:
+  RACollectionViewReorderableTripletLayout: 84c034113b3be6e13200b1fd7af40e514a48e924
+
+COCOAPODS: 0.33.1
