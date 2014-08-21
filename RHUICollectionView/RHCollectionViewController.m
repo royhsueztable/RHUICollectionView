@@ -33,8 +33,7 @@
 
 - (void)setup
 {
-    self.collectionView.delegate = self;
-    self.collectionView.dataSource = self;
+    
 }
 
 - (UIColor *)getRandomColor
