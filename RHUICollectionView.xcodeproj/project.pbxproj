@@ -14,7 +14,6 @@
 		3AEA5F5D19A5957E00E87DC9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AEA5F5C19A5957E00E87DC9 /* main.m */; };
 		3AEA5F6119A5957E00E87DC9 /* RHAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AEA5F6019A5957E00E87DC9 /* RHAppDelegate.m */; };
 		3AEA5F6419A5957E00E87DC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AEA5F6219A5957E00E87DC9 /* Main.storyboard */; };
-		3AEA5F6719A5957E00E87DC9 /* RHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AEA5F6619A5957E00E87DC9 /* RHViewController.m */; };
 		3AEA5F6919A5957E00E87DC9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AEA5F6819A5957E00E87DC9 /* Images.xcassets */; };
 		3AEA5F7019A5957E00E87DC9 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AEA5F6F19A5957E00E87DC9 /* XCTest.framework */; };
 		3AEA5F7119A5957E00E87DC9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AEA5F5019A5957E00E87DC9 /* Foundation.framework */; };
@@ -48,8 +47,6 @@
 		3AEA5F5F19A5957E00E87DC9 /* RHAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHAppDelegate.h; sourceTree = "<group>"; };
 		3AEA5F6019A5957E00E87DC9 /* RHAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHAppDelegate.m; sourceTree = "<group>"; };
 		3AEA5F6319A5957E00E87DC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3AEA5F6519A5957E00E87DC9 /* RHViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHViewController.h; sourceTree = "<group>"; };
-		3AEA5F6619A5957E00E87DC9 /* RHViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHViewController.m; sourceTree = "<group>"; };
 		3AEA5F6819A5957E00E87DC9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3AEA5F6E19A5957E00E87DC9 /* RHUICollectionViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RHUICollectionViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AEA5F6F19A5957E00E87DC9 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -126,8 +123,6 @@
 				3AEA5F6219A5957E00E87DC9 /* Main.storyboard */,
 				3AEA5F8519A59B8600E87DC9 /* RHCollectionViewController.h */,
 				3AEA5F8619A59B8600E87DC9 /* RHCollectionViewController.m */,
-				3AEA5F6519A5957E00E87DC9 /* RHViewController.h */,
-				3AEA5F6619A5957E00E87DC9 /* RHViewController.m */,
 				3AEA5F6819A5957E00E87DC9 /* Images.xcassets */,
 				3AEA5F5719A5957E00E87DC9 /* Supporting Files */,
 			);
@@ -299,7 +294,6 @@
 				3AEA5F8719A59B8600E87DC9 /* RHCollectionViewController.m in Sources */,
 				3AEA5F6119A5957E00E87DC9 /* RHAppDelegate.m in Sources */,
 				3AEA5F5D19A5957E00E87DC9 /* main.m in Sources */,
-				3AEA5F6719A5957E00E87DC9 /* RHViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
